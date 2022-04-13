@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>一些好看的风景图片</title>
+      <link href="/2020/02/22/%E4%B8%80%E4%BA%9B%E5%A5%BD%E7%9C%8B%E7%9A%84%E9%A3%8E%E6%99%AF%E5%9B%BE%E7%89%87/"/>
+      <url>/2020/02/22/%E4%B8%80%E4%BA%9B%E5%A5%BD%E7%9C%8B%E7%9A%84%E9%A3%8E%E6%99%AF%E5%9B%BE%E7%89%87/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>图片展示在下面</p></blockquote><p><img src="https://s2.ax1x.com/2020/02/22/3Qn6zD.jpg"></p><p><img src="https://s2.ax1x.com/2020/02/22/3QnsJK.jpg"></p><p><img src="https://i.loli.net/2020/02/22/rYJVodmy8KLe7iF.jpg"></p><p><img src="https://i.loli.net/2020/02/22/raVFsP7Z9YI2vXd.jpg"></p><p><img src="https://i.loli.net/2020/02/22/K7IVTuGj3DtcPWp.jpg"></p><p><img src="https://i.loli.net/2020/02/22/O58lRQSBMiVHNFg.jpg"></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 其它 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>解决sublime cpu占用过高问题</title>
+      <link href="/2018/09/07/sublime%E5%8D%A0%E7%94%A8cpu%E8%BF%87%E9%AB%98%E7%9A%84%E9%97%AE%E9%A2%98/"/>
+      <url>/2018/09/07/sublime%E5%8D%A0%E7%94%A8cpu%E8%BF%87%E9%AB%98%E7%9A%84%E9%97%AE%E9%A2%98/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>这里我用vue-cli3构建的一个工程项目，打开的时候，cpu直接飙升到35%，一直居高不，风扇转个不停。</p></blockquote><p><img src="https://s2.ax1x.com/2020/02/19/3E6w4J.jpg" alt="项目结构"></p><blockquote><p><strong>解决方法</strong>：只需要给sublime的用户设置中加入这行代码就ok了,其实就是关闭文件索引，这样cpu占用过高的问题就解决了。（详细见下图）</p></blockquote><p><img src="https://s2.ax1x.com/2020/02/19/3Ecczn.jpg" alt="关闭索引"></p><blockquote><p>最后看任务管理器，sublime的cpu占用就恢复了正常</p></blockquote><p> <img src="https://s2.ax1x.com/2020/02/19/3Ec4dU.jpg" alt="任务管理器图"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 开发工具 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 开发工具 </tag>
+            
+            <tag> sublime </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
