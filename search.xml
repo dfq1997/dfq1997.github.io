@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>测试文章</title>
+      <link href="/2022/04/13/sublime%E5%8D%A0%E7%94%A8cpu%E8%BF%87%E9%AB%98%E7%9A%84%E9%97%AE%E9%A2%98/"/>
+      <url>/2022/04/13/sublime%E5%8D%A0%E7%94%A8cpu%E8%BF%87%E9%AB%98%E7%9A%84%E9%97%AE%E9%A2%98/</url>
+      
+        <content type="html"><![CDATA[<p>目前，随着市面上常见的稻田农药，长期大量的滥性使用，使的杂草的抗性呈现梯度式攀升。草难打，难防，是广大农民朋友们最头疼的问题。尤其是在一些中高抗区的水直播田块，像常规的稻田除草药剂：双草醚，二氯喹啉酸，五氟磺草胺等连年使用，产生了越来越高的抗药性。然而，新型的除草化合物研发及其的缓慢。常规的助剂：有机硅、植物油等，对除草剂的增效也是微乎其微。为此，我公司为了解决杂草对常规除草剂高抗性的棘手问题。花费了大量的资金，，从德国引进了一款高级的微纳米分子高沉积量助剂，搭配常规的稻田除草剂使用，能够，极大的降低杂草的抗药性，提升药液的叶面附着性，使得除草效果倍增。</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 测试 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>一些好看的风景图片</title>
       <link href="/2020/02/22/%E4%B8%80%E4%BA%9B%E5%A5%BD%E7%9C%8B%E7%9A%84%E9%A3%8E%E6%99%AF%E5%9B%BE%E7%89%87/"/>
       <url>/2020/02/22/%E4%B8%80%E4%BA%9B%E5%A5%BD%E7%9C%8B%E7%9A%84%E9%A3%8E%E6%99%AF%E5%9B%BE%E7%89%87/</url>
@@ -15,33 +34,6 @@
         <tags>
             
             <tag> 其它 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>解决sublime cpu占用过高问题</title>
-      <link href="/2018/09/07/sublime%E5%8D%A0%E7%94%A8cpu%E8%BF%87%E9%AB%98%E7%9A%84%E9%97%AE%E9%A2%98/"/>
-      <url>/2018/09/07/sublime%E5%8D%A0%E7%94%A8cpu%E8%BF%87%E9%AB%98%E7%9A%84%E9%97%AE%E9%A2%98/</url>
-      
-        <content type="html"><![CDATA[<blockquote><p>这里我用vue-cli3构建的一个工程项目，打开的时候，cpu直接飙升到35%，一直居高不，风扇转个不停。</p></blockquote><p><img src="https://s2.ax1x.com/2020/02/19/3E6w4J.jpg" alt="项目结构"></p><blockquote><p><strong>解决方法</strong>：只需要给sublime的用户设置中加入这行代码就ok了,其实就是关闭文件索引，这样cpu占用过高的问题就解决了。（详细见下图）</p></blockquote><p><img src="https://s2.ax1x.com/2020/02/19/3Ecczn.jpg" alt="关闭索引"></p><blockquote><p>最后看任务管理器，sublime的cpu占用就恢复了正常</p></blockquote><p> <img src="https://s2.ax1x.com/2020/02/19/3Ec4dU.jpg" alt="任务管理器图"></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 开发工具 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 开发工具 </tag>
-            
-            <tag> sublime </tag>
             
         </tags>
       
